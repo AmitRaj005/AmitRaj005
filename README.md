@@ -93,25 +93,6 @@ full-stack web applications, and artificial intelligence.
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AmitRaj005&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitRaj005&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 # 🎯 Current Focus
 
