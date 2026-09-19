@@ -80,62 +80,6 @@ full-stack web applications, and artificial intelligence.
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 ForensicAI
-
-Digital Forensics Intelligence Platform designed to assist with
-digital evidence analysis, event timeline reconstruction,
-and forensic investigation workflows.
-
-**Tech:** Python • AI/ML • Web Development
-
-</td>
-
-<td width="50%">
-
-### 🧠 CareerLens
-
-AI-powered career and resume platform focused on
-resume analysis, ATS optimization, and career assistance.
-
-**Tech:** JavaScript • HTML • CSS • Node.js • AI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔧 Crankshaft Inspection & Prediction
-
-Machine-learning based project focused on inspection
-and prediction using engineering data.
-
-**Tech:** Python • Machine Learning
-
-</td>
-
-<td width="50%">
-
-### ✅ DoOrbit
-
-Modern task management application with task tracking,
-progress monitoring and a clean user interface.
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 📊 GitHub Statistics
 
